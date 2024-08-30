@@ -1,8 +1,8 @@
 class GitCheck < Formula
   desc "A git command to check the current status of a branch with respect to origin"
   homepage "https://github.com/nodet/git-check"
-  url "https://raw.githubusercontent.com/nodet/git-check/1.0.0/git-check"
-  sha256 "258d9927fba50e69bd0623a78c02bf0312f2e7c0c5ce9757dc524b4384634066"
+  url "https://raw.githubusercontent.com/nodet/git-check/1.0.1/git-check"
+  sha256 "4fffc170ac49593a853128741172b556ba040a90808b61795a934d23b82d0e42"
   license "Unlicense"
 
   def install
